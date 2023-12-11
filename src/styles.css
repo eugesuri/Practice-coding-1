@@ -154,3 +154,14 @@ main p {
     font-size: 12px;
   }
 }
+
+footer {
+  text-align: center;
+  color: black;
+  font-family: "Playfair Display", serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+}
